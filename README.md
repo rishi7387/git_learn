@@ -1,3 +1,3 @@
 # git_learn
 
-<meta>Author - Rishi</meta>
+<meta></h3>Author - Rishi</h3></meta>
