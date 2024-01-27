@@ -1,3 +1,3 @@
-# gti_learn
+# git_learn
 
-Author - Rishi
+<meta>Author - Rishi</meta>
